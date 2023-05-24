@@ -5,3 +5,4 @@ int main()
 	i+=1;
 	reutrn 0;
 }
+/*update test.c */
