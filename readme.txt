@@ -6,3 +6,5 @@ git status try
 wq try
 
 go back try.
+
+update readme.
