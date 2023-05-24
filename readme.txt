@@ -8,5 +8,3 @@ wq try
 go back try.
 
 update readme.
-
-update readme and test.c
