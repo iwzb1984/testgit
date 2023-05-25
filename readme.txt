@@ -15,3 +15,5 @@ test stage and work dir.
 test merge in master.
 
 test merge.
+
+## manage the branch
