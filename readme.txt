@@ -10,3 +10,5 @@ go back try.
 update readme.
 
 test stage and work dir.
+
+delete the modify.
