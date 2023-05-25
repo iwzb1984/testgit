@@ -17,3 +17,5 @@ test merge in master.
 test merge.
 
 ## manage the branch
+
+fast forward
