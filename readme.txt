@@ -11,4 +11,4 @@ update readme.
 
 test stage and work dir.
 
-delete the modify.
+test merge in master.
